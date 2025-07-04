@@ -69,7 +69,7 @@ Since this is a fictional project, there’s no codebase yet — but if it exist
 ### 🔧 Installation (theoretically)
 
 ```bash
-git clone https://github.com/jacobbakun/echoes-between-the-lines.git
+git clone https://github.com/bakunjacob/echoes-between-the-lines.git
 cd echoes-between-the-lines
 npm install
 npm start
